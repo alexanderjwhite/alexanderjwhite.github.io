@@ -5,12 +5,20 @@
     <link>https://alexanderjwhite.github.io/project/</link>
       <atom:link href="https://alexanderjwhite.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alexanderjwhite.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://alexanderjwhite.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>mixedLSR</title>
+      <link>https://alexanderjwhite.github.io/project/mixedlsr/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alexanderjwhite.github.io/project/mixedlsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>smoothLRC</title>
